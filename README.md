@@ -3,13 +3,12 @@
 1. Clone this repository
 
    ```bash
-   git clone https://github.com/akhi9550/OauthBasic.git
+   git clone https://github.com/akhi9550/Oauth-Basic.git
    ```
 
 2. Download the requirements
 
    ```bash
-   go mod download
    go mod tidy
    ```
 
